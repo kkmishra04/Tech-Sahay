@@ -1,0 +1,16 @@
+.filter-btn.active {
+    background-color: #2b6cb0;
+    color: white;
+}
+#devicesList::-webkit-scrollbar {
+    width: 10px;
+}
+#devicesList::-webkit-scrollbar-thumb {
+    background: #2b6cb0;
+    border-radius: 5px;
+}
+.device-card img {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 0.5rem;
+}
